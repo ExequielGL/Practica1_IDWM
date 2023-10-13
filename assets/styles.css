@@ -1,9 +1,10 @@
-#datos-personales{
-    background-color: #68FF00;
-    border-radius: 20px;
+body{
+    background-color: #ecf0f1;
 }
 
-#intereses{
-    background-color: #68FF00;
-    border-radius: 20px;
+.card{
+    background-color: white;
+    border-radius: 35px;
+    padding: 20px 30px;
+    margin-bottom: 20px;
 }
